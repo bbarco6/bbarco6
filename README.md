@@ -7,7 +7,7 @@
 - 🧵 Core Skills & Expertise:
 - ✔ Full-Stack Development: Proficient in designing and developing end-to-end web and mobile applications
 - ✔ Front-End Development: Creating visually appealing and responsive user interfaces with React, Vue.js, Angular, and Next.js
-- ✔ Back-End Development: Building scalable and efficient server-side applications with Node.js/Express.js/Nest.js, Ruby On Rails, and Python (Django, Flask).
+- ✔ Back-End Development: Building scalable and efficient server-side applications with Node.js/Express.js/Nest.js, Ruby On Rails, PHP/WordPress/Laravel/CodeIgniter, and Python (Django, Flask).
 - ✔ Database Design and Management: Expertise in relational (MySQL, PostgreSQL) and NoSQL (MongoDB) databases.
 - ✔ API Development: Designing and implementing RESTful and GraphQL APIs.
 - ✔ Cloud Platforms: Experience with AWS, Azure, and Google Cloud Platform.
